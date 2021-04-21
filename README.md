@@ -1,7 +1,7 @@
 - 🛠 http://eth.build
 - 🏗 http://scaffoldeth.io
 - 🎨 http://nifty.ink
-- 🧙‍♂️ http://instantwallet.io
+- 🧑‍🎤 http://punkwallet.io
 - 🔥 http://xdai.io
 - 🛰 http://metatx.io
 - 🐶 http://daog.io
