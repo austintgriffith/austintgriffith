@@ -1,8 +1,6 @@
-- 🏗 http://scaffoldeth.io
-- 🛠 http://eth.build
-- 🎨 http://nifty.ink
-- 🧑‍🎤 http://punkwallet.io
-- 🔥 http://xdai.io
-- 🛰 http://metatx.io
-- 🐶 http://daog.io
+- 🏃‍♀️ https://SpeedRunEthereum.com
+- 🏗 https://scaffoldeth.io
+- 🛠 https://eth.build
+- 🎨 https://nifty.ink
+- 🧑‍🎤 https://punkwallet.io
 - 🏴‍☠️ http://galleass.io
