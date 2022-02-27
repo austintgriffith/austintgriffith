@@ -1,5 +1,5 @@
 - 🏃‍♀️ https://SpeedRunEthereum.com
-- 🏗 https://scaffoldeth.io
+- 🏗 http://scaffoldeth.io
 - 🛠 https://eth.build
 - 🎨 https://nifty.ink
 - 🧑‍🎤 https://punkwallet.io
